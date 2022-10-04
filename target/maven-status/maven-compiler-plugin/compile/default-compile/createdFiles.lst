@@ -1,0 +1,11 @@
+product/RedisAwsElasticcacheSetupApplication.class
+product/Product$ProductBuilder.class
+product/ProductFacadeImpl.class
+product/ProductFacade.class
+product/ProductRepository.class
+product/ProductController.class
+product/RedisConfiguration.class
+product/Product.class
+product/ProductService.class
+product/LettuceConnectionFactoryConfig.class
+product/ProductServiceImpl.class

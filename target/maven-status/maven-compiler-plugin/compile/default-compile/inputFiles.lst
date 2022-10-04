@@ -1,0 +1,10 @@
+/Users/mkhadanovich/git/redis-cluster-setup/src/main/java/product/LettuceConnectionFactoryConfig.java
+/Users/mkhadanovich/git/redis-cluster-setup/src/main/java/product/Product.java
+/Users/mkhadanovich/git/redis-cluster-setup/src/main/java/product/ProductRepository.java
+/Users/mkhadanovich/git/redis-cluster-setup/src/main/java/product/ProductFacade.java
+/Users/mkhadanovich/git/redis-cluster-setup/src/main/java/product/RedisConfiguration.java
+/Users/mkhadanovich/git/redis-cluster-setup/src/main/java/product/ProductService.java
+/Users/mkhadanovich/git/redis-cluster-setup/src/main/java/product/ProductController.java
+/Users/mkhadanovich/git/redis-cluster-setup/src/main/java/product/ProductFacadeImpl.java
+/Users/mkhadanovich/git/redis-cluster-setup/src/main/java/product/RedisAwsElasticcacheSetupApplication.java
+/Users/mkhadanovich/git/redis-cluster-setup/src/main/java/product/ProductServiceImpl.java
