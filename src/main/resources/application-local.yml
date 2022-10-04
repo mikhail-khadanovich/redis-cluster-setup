@@ -1,0 +1,6 @@
+spring:
+  redis:
+    ssl: true
+redis:
+  replica:
+    port: 6380
